@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="save">Save Task</string>
+    <string name="db_drop">DROP TABLE IF EXISTS</string>
+</resources>
